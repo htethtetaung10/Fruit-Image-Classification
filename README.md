@@ -10,6 +10,6 @@ This project performs the data preparation, model creation, model training, mode
 **Fruit Dataset**
 
 There are four fruit classes: "banana", "apple", "orange" and "mixed". It has 240 training and 60 testing data samples.
-Data is also available at https://drive.google.com/drive/folders/17I6RS2HgmUwbWi2iVc14-C0h6PUsPkKq?usp=sharing.
+Data is available at https://drive.google.com/drive/folders/17I6RS2HgmUwbWi2iVc14-C0h6PUsPkKq?usp=sharing.
 
 
