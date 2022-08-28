@@ -1,4 +1,4 @@
-#**Image Classification of Fruit Dataset**
+## **Image Classification of Fruit Dataset**
 
 This project performs the data preparation, model creation, model training, model evaluation and model prediction steps using fruit dataset from Kaggle. Details are as follows:
 
