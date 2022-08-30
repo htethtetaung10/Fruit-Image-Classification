@@ -1,6 +1,6 @@
 ## **Image Classification of Fruit Dataset**
 
-This project performs the data preparation, model creation, model training, model evaluation and model prediction steps using fruit dataset from Kaggle. Details are as follows:
+This project performs the data preparation, model creation, model training, model evaluation and model prediction using fruit dataset from Kaggle. Details are as follows:
 
 - Prepare train/test data samples and labels
 - Prepare image data for training
